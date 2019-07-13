@@ -1,0 +1,1 @@
+﻿insert into  registro  (titulo,autor,resumen,contenido,formatoId,fecha_envio,fecha_aceptacion) values  ('la casa de los espiritus','marcos','fantasia','novela',1,'20/05/1983','21/05/1983'), ('Arenales','pedro','fantasia','investigacion',2,'20/05/1985','22/05/1985');

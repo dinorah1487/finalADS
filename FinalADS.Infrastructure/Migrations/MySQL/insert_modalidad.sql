@@ -1,0 +1,1 @@
+insert into  autor(nombres,apellidos,institucion) values  ('Carlos','Fuentes','UNAH'),('Maria','Olguin','UPN'),('Luis','Ramirez','UNMSM') ;

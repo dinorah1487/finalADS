@@ -1,0 +1,1 @@
+insert into  articulo  (nombre,formatoId) values  ('articulo1',1), ('articulo2',2);
