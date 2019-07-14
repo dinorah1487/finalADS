@@ -31,6 +31,9 @@ namespace FinalADS.Application.Accounts.Services
         {
             try
             {
+                
+
+
                 Account account = _newAccountAssembler.ToEntity(newAccountDto);
                 _accountRepository.SaveOrUpdate(account);
                 return new NewAccountResponseDto

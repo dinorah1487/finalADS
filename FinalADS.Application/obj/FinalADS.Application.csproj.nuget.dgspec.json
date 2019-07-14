@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Application\\FinalADS.Application.csproj": {}
+    "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Application\\FinalADS.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\Common\\Common.csproj": {
+    "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\GERENCIA ACADEMICA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\Common\\obj\\",
+        "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Application\\FinalADS.Application.csproj": {
+    "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Application\\FinalADS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Application\\FinalADS.Application.csproj",
+        "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Application\\FinalADS.Application.csproj",
         "projectName": "FinalADS.Application",
-        "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Application\\FinalADS.Application.csproj",
+        "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Application\\FinalADS.Application.csproj",
         "packagesPath": "C:\\Users\\GERENCIA ACADEMICA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Application\\obj\\",
+        "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -98,11 +98,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj": {
-                "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj"
+              "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Domain\\FinalADS.Domain.csproj": {
+                "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Domain\\FinalADS.Domain.csproj"
               },
-              "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj"
+              "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj"
               }
             }
           }
@@ -147,14 +147,14 @@
         }
       }
     },
-    "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj": {
+    "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Domain\\FinalADS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Domain\\FinalADS.Domain.csproj",
         "projectName": "FinalADS.Domain",
-        "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj",
+        "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Domain\\FinalADS.Domain.csproj",
         "packagesPath": "C:\\Users\\GERENCIA ACADEMICA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Domain\\obj\\",
+        "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -175,8 +175,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\Common\\Common.csproj"
+              "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\Common\\Common.csproj"
               }
             }
           }
@@ -205,14 +205,14 @@
         }
       }
     },
-    "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj": {
+    "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj",
         "projectName": "FinalADS.Infrastructure",
-        "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\GERENCIA ACADEMICA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -233,11 +233,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\Common\\Common.csproj"
+              "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\Common\\Common.csproj"
               },
-              "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj": {
-                "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj"
+              "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Domain\\FinalADS.Domain.csproj": {
+                "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Domain\\FinalADS.Domain.csproj"
               }
             }
           }

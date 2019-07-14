@@ -18,8 +18,8 @@ namespace FinalADS.Application.Accounts.Assemblers
         {
             Account account = _mapper.Map<Account>(newAccountDto);
             DateTime utcNow = DateTime.UtcNow;
-            account.CreatedAt = utcNow;
-            account.UpdatedAt = utcNow;
+           // account.CreatedAt = utcNow;
+           //// account.UpdatedAt = utcNow;
             return account;
         }
     }

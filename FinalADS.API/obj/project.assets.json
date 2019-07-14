@@ -9308,6 +9308,7 @@
       "path": "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -9467,6 +9468,7 @@
       "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -9880,6 +9882,7 @@
       "path": "system.collections.specialized/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -12710,6 +12713,7 @@
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -14451,11 +14455,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.API\\FinalADS.API.csproj",
+      "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.API\\FinalADS.API.csproj",
       "projectName": "FinalADS.API",
-      "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.API\\FinalADS.API.csproj",
+      "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.API\\FinalADS.API.csproj",
       "packagesPath": "C:\\Users\\GERENCIA ACADEMICA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.API\\obj\\",
+      "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -14476,11 +14480,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Application\\FinalADS.Application.csproj": {
-              "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Application\\FinalADS.Application.csproj"
+            "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Application\\FinalADS.Application.csproj": {
+              "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Application\\FinalADS.Application.csproj"
             },
-            "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj"
+            "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj"
             }
           }
         }

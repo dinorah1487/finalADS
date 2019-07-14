@@ -17,7 +17,7 @@ namespace FinalADS.Infrastructure.Accounts.Persistence.NHibernate.Repository
         {
             return _unitOfWork.GetSession()
                 .Query<Account>()
-                .SingleOrDefault(x => x.Number == accountNumber);
+                .SingleOrDefault(x => x.Nombres == accountNumber);
         }
 
         public Account GetByNumberWithUpgradeLock(string accountNumber)

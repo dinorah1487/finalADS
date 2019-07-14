@@ -3001,6 +3001,7 @@
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3494,11 +3495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\GERENCIA ACADEMICA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\PLANTILLA\\API-ADS\\Common\\obj\\",
+      "outputPath": "C:\\Users\\GERENCIA ACADEMICA\\Desktop\\examen2 ads\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -13,12 +13,12 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
+        "MYSQL_Alumno_CORE": "Server=localhost; database=adsfinal; UID=root; password=1487",
         "JWT_KEY": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
         "JWT_ISSUER": "admin",
         "JWT_AUDIENCE": "web",
         "JWT_EXP_MINUTES": "180",
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "MYSQL_Alumno_CORE": "Server=localhost; database=adsfinal; UID=root; password=1487"
+        "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
     "Banking.API": {

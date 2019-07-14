@@ -5,42 +5,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Migrations\MySQL\7_CreateAccountTable - Copia.cs" />
+    <None Remove="Migrations\MySQL\5_CreateCustomerTable.sql" />
+    <None Remove="Migrations\MySQL\7_CreateAccountTable.sql" />
+    <None Remove="Migrations\MySQL\7_InsertAccounts.sql" />
+    <None Remove="Migrations\MySQL\8_InsertCustomer.sql" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Migrations\MySQL\7_CreateAccountTable.sql" />
-    <None Remove="Migrations\MySQL\7_InsertAccounts.sql" />
-  </ItemGroup>
-	<ItemGroup>
-		<None Remove="Migrations\MySQL\Modalidad.sql" />
-		<None Remove="Migrations\MySQL\insert_modalidad.sql" />
-	</ItemGroup>
-	<ItemGroup>
-		<None Remove="Migrations\MySQL\articulo.sql" />
-		<None Remove="Migrations\MySQL\insert_articulo.sql" />
-	</ItemGroup>
-	<ItemGroup>
-		<None Remove="Migrations\MySQL\formato.sql" />
-		<None Remove="Migrations\MySQL\insert_formato.sql" />
-	</ItemGroup>
-
-	<ItemGroup>
+    <EmbeddedResource Include="Migrations\MySQL\5_CreateCustomerTable.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\8_InsertCustomer.sql" />
     <EmbeddedResource Include="Migrations\MySQL\7_InsertAccounts.sql" />
     <EmbeddedResource Include="Migrations\MySQL\7_CreateAccountTable.sql" />
   </ItemGroup>
-	<ItemGroup>
-		<EmbeddedResource Include="Migrations\MySQL\insert_modalidad.sql" />
-		<EmbeddedResource Include="Migrations\MySQL\Modalidad.sql" />
-	</ItemGroup>
-	<ItemGroup>
-		<EmbeddedResource Include="Migrations\MySQL\articulo.sql" />
-		<EmbeddedResource Include="Migrations\MySQL\insert_articulo.sql" />
-	</ItemGroup>
-	<ItemGroup>
-		<EmbeddedResource Include="Migrations\MySQL\formato.sql" />
-		<EmbeddedResource Include="Migrations\MySQL\insert_formato.sql" />
-	</ItemGroup>
 
   <ItemGroup>
     <Folder Include="Seedwork\" />
